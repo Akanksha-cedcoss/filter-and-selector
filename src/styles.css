@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  font-size: 80%;
+}
+
+#wrapper {
+  width: 80%;
+  margin: 20px auto 0;
+}
+
+#product_list table {
+  width: 500px;
+}
+
+#product_list table th {
+  text-align: center;
+  background-color: lightblue;
+}
+#product_list table td {
+  text-align: center;
+}
+#search{
+	margin-left: 230px;
+}
